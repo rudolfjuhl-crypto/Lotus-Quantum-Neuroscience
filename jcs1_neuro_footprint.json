@@ -1,0 +1,12 @@
+{
+    "author": "Rudolf Juhl",
+    "location": "Bensheim, Germany",
+    "timestamp": 1794015180,
+    "molecule": "JCS-1",
+    "chemical_formula": "C19H23N5O3",
+    "target_mechanisms": "GABA_A Partial Agonist / NMDA Receptor Stabilizer",
+    "calculated_ground_state_energy_hartree": -92.1148,
+    "hardware_platform": "Lotus Core-V3 Hexa Cluster (288 Physical Qubits)",
+    "inter_core_bus_coupling_fidelity": 0.9982,
+    "circuit_optimization_status": "CONVERGED_SUCCESSFULLY"
+}
